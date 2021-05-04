@@ -1,7 +1,4 @@
-@font-face {
-    font-family: Cairo;
-    src: url(../fonts/Cairo-SemiBold.ttf) format('truetype'), url(../fonts/Cairo-Regular.ttf) format('truetype'), url(../fonts/Cairo-Light.ttf) format('truetype'), url(../fonts/Cairo-ExtraLight.ttf) format('truetype'), url(../fonts/Cairo-Bold.ttf) format('truetype'), url(../fonts/Cairo-Black.ttf) format('truetype')
-}
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;700;900&display=swap');
 
 :root {
     --maincolor: #2b4170;
